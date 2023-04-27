@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "944286589208",
+    "project_id": "harleys-4e431",
+    "storage_bucket": "harleys-4e431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944286589208:android:a38fcecfed8f888900be6d",
+        "android_client_info": {
+          "package_name": "com.ThreeDSSofts.Harleys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944286589208-jktrtfp0ir11hbhhmpbqlffjp6q2abk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCduPJviqlQn1S-zbPm56Zrwt-QXL2xYCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944286589208-jktrtfp0ir11hbhhmpbqlffjp6q2abk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944286589208-rl1q45qndnofe3oe0vi94e8ufhop5pas.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.3dsSofts.Harleys"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
